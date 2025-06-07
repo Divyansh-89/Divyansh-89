@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,24,30&height=320&section=header&text=Divyansh%20Rajput&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Competitive%20Programmer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=22&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,24,30&height=320&section=header&text=Hi%20👋,%20I'm%20Divyansh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Competitive%20Programmer%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=22&stroke=ffffff&strokeWidth=1" />
 </div>
 
 
@@ -50,34 +50,20 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-### **👨‍💻 About Me**
+| **👨‍💻 About Me** | **🏆 Achievements** |
+|:---:|:---:|
+| 🎓 **B.Tech Student** passionate about algorithmic mastery[4] | 🌟 **1550+ Rating** on LeetCode (Top 40.1%) |
+| 🧠 **Daily Grinder**: 4-5 DSA problems religiously | ⭐ **1⭐ CodeChef** with 1395 max rating |
+| 🎯 **Goal-Oriented**: Clear targets across all platforms | 🚀 **1073 Rating** on Codeforces (Rising fast!)[2] |
+| 💡 **Philosophy**: *"Perfect practice makes champions"* | 📈 **1000+ Problems** solved across platforms |
+| 🔥 **Consistency King**: Streak maintenance expert | 🏅 **Contest Regular**: Weekly participation |
+| 🧩 **Pattern Hunter**: String optimization specialist[3] | 💻 **Zero Deadlines Missed**: Clean code advocate |
+| ⚡ **Optimization Expert**: Bit masking & greedy algorithms[4] | 🎯 **Data Structure Mastery**: Arrays, maps, pairs with long long[2] |
 
-- 🎓 **B.Tech Student** passionate about algorithmic mastery[4]
-- 🧠 **Daily Grinder**: 4-5 DSA problems religiously 
-- 🎯 **Goal-Oriented**: Clear targets across all platforms
-- 💡 **Philosophy**: *"Perfect practice makes champions"*
-- 🔥 **Consistency King**: Streak maintenance expert
-- 🧩 **Pattern Hunter**: Code optimization specialist[7]
+</div>
 
-</td>
-<td width="50%" align="center">
-
-### **🏆 Achievements**
-
-- 🌟 **1550+ Rating** on LeetCode (Top 40.1%)
-- ⭐ **1⭐ CodeChef** with 1395 max rating
-- 🚀 **1073 Rating** on Codeforces (Rising fast!)[4]
-- 📈 **1000+ Problems** solved across platforms
-- 🏅 **Contest Regular**: Weekly participation
-- 💻 **Zero Deadlines Missed**: Clean code advocate
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
