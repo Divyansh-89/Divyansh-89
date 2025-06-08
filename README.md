@@ -54,13 +54,13 @@
 
 | **👨‍💻 About Me** | **🏆 Achievements** |
 |:---:|:---:|
-| 🎓 **B.Tech Student** passionate about algorithmic mastery[4] | 🌟 **1550+ Rating** on LeetCode (Top 40.1%) |
+| 🎓 **B.Tech Student** passionate about algorithmic mastery | 🌟 **1550+ Rating** on LeetCode (Top 40.1%) |
 | 🧠 **Daily Grinder**: 4-5 DSA problems religiously | ⭐ **1⭐ CodeChef** with 1395 max rating |
-| 🎯 **Goal-Oriented**: Clear targets across all platforms | 🚀 **1073 Rating** on Codeforces (Rising fast!)[2] |
+| 🎯 **Goal-Oriented**: Clear targets across all platforms | 🚀 **1073 Rating** on Codeforces (Rising fast!) |
 | 💡 **Philosophy**: *"Perfect practice makes champions"* | 📈 **1000+ Problems** solved across platforms |
 | 🔥 **Consistency King**: Streak maintenance expert | 🏅 **Contest Regular**: Weekly participation |
-| 🧩 **Pattern Hunter**: String optimization specialist[3] | 💻 **Zero Deadlines Missed**: Clean code advocate |
-| ⚡ **Optimization Expert**: Bit masking & greedy algorithms[4] | 🎯 **Data Structure Mastery**: Arrays, maps, pairs with long long[2] |
+| 🧩 **Pattern Hunter**: String optimization specialist | 💻 **Zero Deadlines Missed**: Clean code advocate |
+| ⚡ **Optimization Expert**: Bit masking & greedy algorithms | 🎯 **Data Structure Mastery**: Arrays, maps, pairs with long long |
 
 </div>
 
@@ -163,57 +163,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
 </div>
 
-## <div align="center">🎯 **DAILY GRIND & ALGORITHMIC MASTERY** ⚡</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2200&pause=900&color=FF6B35&center=true&vCenter=true&width=800&lines=⚡+Daily+Coding+Ritual;🧠+Algorithmic+Mastery;🎯+Focused+Learning+Path;🔥+Consistency+Protocol" alt="Daily Grind" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
-</div>
-
-## <div align="center">🎯 **DAILY GRIND & ALGORITHMIC MASTERY** ⚡</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2200&pause=900&color=FF6B35&center=true&vCenter=true&width=800&lines=⚡+Daily+Coding+Ritual;🧠+Algorithmic+Mastery;🎯+Focused+Learning+Path;🔥+Consistency+Protocol" alt="Daily Grind" />
-</div>
-
-<br>
-
-<div align="center">
-
-| **🧠 Current Focus Topics** | **📚 Learning Resources** |
-|:---:|:---:|
-| 🎯 **Greedy Algorithms** (Optimization techniques) | 📖 **CP Algorithms** for theoretical depth |
-| 🔍 **Binary Search** (Efficient searching methods) | 🎥 **TLE Eliminators** for expert guidance |
-| 💻 **Implementation** (Problem-solving execution) | 📚 **Striver's A2Z DSA Course** for comprehensive learning |
-| 🔗 **Linked Lists** (Pointer manipulation & traversal)[2] | 📝 **Personal notes** & solution explanations |
-| 🔄 **Backtracking** (Recursive solution exploration) | 🤝 **Peer discussions** & code reviews |
-| 🪟 **Sliding Window** (Array subproblem optimization) | 📊 **LeetCode Patterns** for problem categorization |
-| 👆 **Two Pointers** (Efficient array traversal) | 🧠 **Competitive Programming Handbook** |
-
--
-
-<div align="center">
-
-| 🏅 **Contest Schedule** | 📅 **Days** | ⏰ **Time (IST)** |
-|:---:|:---:|:---:|
-| 🟢 **Codeforces** Div 2/3 | Tue/Thu/Sat | 8:05 PM |
-| 🟡 **CodeChef** Weekly | Wednesday | 8:00 PM |
-| 🔵 **LeetCode** Weekly/Biweekly | Sun/Sat | 8:00 AM |
-| 🟣 **AtCoder** Beginner (ABC) | Saturday | 5:30 PM |
-
-</div>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
-</div>
 
 ## <div align="center">🚀 **PROJECT PORTFOLIO & INNOVATION LAB** 💡</div>
 
