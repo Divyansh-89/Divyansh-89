@@ -42,34 +42,6 @@
 
 ---
 
-## <div align="center">🎯 **MISSION: EXPERT LEVEL UNLOCKED** 🎯</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=🎮+Gaming+the+Algorithm+World;🏆+Conquering+Every+Platform;⚡+Speed+%26+Precision+Master;🧠+Pattern+Recognition+Expert" alt="Mission" />
-</div>
-
-<br>
-
-<div align="center">
-
-| **👨‍💻 About Me** | **🏆 Achievements** |
-|:---:|:---:|
-| 🎓 **B.Tech Student** passionate about algorithmic mastery | 🌟 **1550+ Rating** on LeetCode (Top 40.1%) |
-| 🧠 **Daily Grinder**: 4-5 DSA problems religiously | ⭐ **1⭐ CodeChef** with 1395 max rating |
-| 🎯 **Goal-Oriented**: Clear targets across all platforms | 🚀 **1073 Rating** on Codeforces (Rising fast!) |
-| 💡 **Philosophy**: *"Perfect practice makes champions"* | 📈 **1000+ Problems** solved across platforms |
-| 🔥 **Consistency King**: Streak maintenance expert | 🏅 **Contest Regular**: Weekly participation |
-| 🧩 **Pattern Hunter**: String optimization specialist | 💻 **Zero Deadlines Missed**: Clean code advocate |
-| ⚡ **Optimization Expert**: Bit masking & greedy algorithms | 🎯 **Data Structure Mastery**: Arrays, maps, pairs with long long |
-
-</div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
-</div>
-
----
 
 ## <div align="center">🏆 **COMPETITIVE PROGRAMMING ARSENAL** ⚔️</div>
 
@@ -86,7 +58,7 @@
 | [**LeetCode**](https://leetcode.com/u/DivyanshRajputMITS/) | 1513 Rating | Guardian 🛡️ | 🔥 166 days | Top 40.1% |
 | [**CodeChef**](https://www.codechef.com/users/divyansh_1729) | 1⭐ (1395) | 6⭐ Expert | 🔥 90 days | 1 Star |
 | [**Codeforces**](https://codeforces.com/profile/divyanshrajput91565) | Newbie (1073) | Expert | 🔥 60 days | Newbie |
-| [**AtCoder**](https://atcoder.jp/users/divyansh_1729) | Beginner | 1000+ Rating | 🔥 Soon | Unrated |
+| [**AtCoder**](https://atcoder.jp/users/divyansh_1729) | 68 Rating | 1000+ Rating | 🔥 Soon | Kyu(12) |
 
 
 </div>
@@ -215,56 +187,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
-</div>
-
-## <div align="center">✨ **FUN FACTS & MOTIVATION CORNER** 🎯</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=2800&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=☕+Coffee+%2B+Code+%3D+Pure+Magic;⚡+Speed+%26+Precision+Virtuoso;🎯+Consistency+is+My+Superpower;🚀+Never+Stop+Learning+%26+Growing" alt="Fun Facts" />
-</div>
-
-<br>
-
-<div align="center">
-
- ### *"The expert in anything was once a beginner who never gave up."*
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### **🎯 Performance Stats**
-- ☕ **Coffee Consumed**: 500+ cups while coding
-- 🔥 **Current Streak**: 160+ days consistent practice
-- 🧩 **Favorite Algorithms**: Binary Search & Greedy 
-- 🎵 **Coding Soundtrack**: Lo-fi beats & instrumentals
-- 🏆 **Contest Participation**: 20+ contests completed
-
-</td>
-<td width="50%" align="center">
-
-### **🎮 Gaming the System**
-- 🎯 **Accuracy Rate**: 85%+ first submissions
-- ⚡ **Problem Solving Speed**: Top 10% in contests
-- 🧠 **Pattern Recognition**: Intermediate level mastery
-- 🔧 **Debugging Skills**: Zero missed deadlines
-- 📚 **Learning Philosophy**: Continuous improvement
-- 🚀 **Innovation Mindset**: Always pushing boundaries
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### **💡 Daily Mantra:** *"Code, Debug, Optimize, Repeat!"*
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,24,30&height=200&section=footer&text=Thanks%20for%20Visiting&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Keep%20Coding%20and%20Stay%20Awesome&descAlignY=85&descAlign=50&descSize=16" />
