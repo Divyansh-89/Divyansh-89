@@ -55,9 +55,9 @@
 
 | 🏟️ **Platform** | 📊 **Current Status** | 🎯 **Target** | 🔥 **Streak** | 🏆 **Rank** |
 |:---:|:---:|:---:|:---:|:---:|
-| [**LeetCode**](https://leetcode.com/u/DivyanshRajputMITS/) | 1513 Rating | Guardian 🛡️ | 🔥 166 days | Top 40.1% |
+| [**LeetCode**](https://leetcode.com/u/DivyanshRajputMITS/) | 1550 Rating | Guardian 🛡️ | 🔥 173 days | Top 40.1% |
 | [**CodeChef**](https://www.codechef.com/users/divyansh_1729) | 2⭐ (1400) | 6⭐ Coder | 🔥 90 days | 1 Star |
-| [**Codeforces**](https://codeforces.com/profile/divyanshrajput91565) | Newbie (1095) | Expert | 🔥 60 days | Newbie |
+| [**Codeforces**](https://codeforces.com/profile/divyanshrajput91565) | Newbie (1095) | Expert | 🔥 67 days | Newbie |
 | [**AtCoder**](https://atcoder.jp/users/divyansh_1729) | 68 Rating | 1000+ Rating | 🔥 Soon | Kyu(12) |
 
 
