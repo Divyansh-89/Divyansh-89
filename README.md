@@ -112,13 +112,10 @@
 ## <div align="center">📊 **GITHUB ANALYTICS DASHBOARD** 📈</div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Divyansh-89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Performance&title_color=00D9FF&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-89&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=FFD700&fire=FF6B35&currStreakLabel=00D9FF&background=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divyansh-89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Divyansh-89&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&custom_title=🎯%20Language%20Mastery&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh-89&theme=tokyo-night&hide_border=true&title_color=00D9FF&color=00D9FF&line=FFD700&point=FF6B35&area=true&custom_title=🔥%20Contribution%20Activity%20Matrix&bg_color=0d1117" />
