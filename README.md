@@ -42,32 +42,6 @@
 
 ---
 
-
-## <div align="center">🏆 **COMPETITIVE PROGRAMMING ARSENAL** ⚔️</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⚔️+Battle+Stats+%26+Progress;🎯+Targeting+Excellence;🔥+Performance+Metrics" alt="Arsenal" />
-</div>
-
-<br>
-
-<div align="center">
-
-| 🏟️ **Platform** | 📊 **Current Status** | 🎯 **Target** | 🔥 **Streak** | 🏆 **Rank** |
-|:---:|:---:|:---:|:---:|:---:|
-| [**LeetCode**](https://leetcode.com/u/DivyanshRajputMITS/) | 1550 Rating | Guardian 🛡️ | 🔥 173 days | Top 40.1% |
-| [**CodeChef**](https://www.codechef.com/users/divyansh_1729) | 2⭐ (1400) | 6⭐ Coder | 🔥 90 days | 1 Star |
-| [**Codeforces**](https://codeforces.com/profile/divyanshrajput91565) | Newbie (1095) | Expert | 🔥 67 days | Newbie |
-| [**AtCoder**](https://atcoder.jp/users/divyansh_1729) | 68 Rating | 1000+ Rating | 🔥 Soon | Kyu(12) |
-
-
-</div>
-
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
 </div>
@@ -166,9 +140,10 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyansh---rajput/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
-  </a>
+<a href="https://x.com/Divyansh91565" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+</a>
+
   <a href="mailto:divyanshrajput91565@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Gmail" />
   </a>
